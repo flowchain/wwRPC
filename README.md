@@ -2,4 +2,4 @@
 
 # wwRPC: web-to-web RPC
 
-wwRPC uses REST-style RPC operations over WebSocket for Web of Things. wwwRPC aims to support REST-style physical devices and virtual things. It is the infrastructure of [WoT.City](https://wotcity.com) software framework for a peer-to-peero IoT network. It also aims to support RPC-style endpoints.
+wwRPC uses REST-style RPC operations over WebSocket for Web of Things. wwRPC aims to support REST-style physical devices and virtual things. It is the infrastructure of [WoT.City](https://wotcity.com) software framework for a peer-to-peero IoT network. It also aims to support RPC-style endpoints.
