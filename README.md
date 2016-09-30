@@ -1,5 +1,5 @@
-**wwRPC** is a lightweight and very fast RPC (remote producre call) for IoT device communications.
+**wwRPC** is a lightweight and very fast RPC (remote producre call) for a peer-to-peer IoT network.
 
 # wwRPC: web-to-web RPC
 
-wwwRPC uses REST-style RPC operations over WebSocket. 
+wwRPC uses REST-style RPC operations over WebSocket for Web of Things. 
