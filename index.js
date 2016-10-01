@@ -11,7 +11,6 @@ function RPC(from, to) {
 
 /**
  * To send a RPC operation.
- * @constructor
  * @param {object} message - The message to be sent.
  */
 RPC.prototype.send = function(message) {

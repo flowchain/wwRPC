@@ -8,7 +8,7 @@ wwRPC uses REST-style RPC operations over WebSocket for Web of Things. wwRPC aim
 
 #### `rpc = new RPC(from, to)`
 
-Create a new wwwRPC instance.
+Create a new wwRPC instance.
 
 * **from** is the URI of the sender, for example ```ws://wot.city/object/2fc89af```
 * **to** is the URI of the receiver, for example ```ws://wot.city/object/2fc89af/send```
